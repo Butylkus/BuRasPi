@@ -1,6 +1,6 @@
 #!/usr/bin/python3.4
 #coding=utf-8
-#Скрипт для подписчиков канала http://www.youtube.com/user/butylkus
+#Скрипт для подписчиков канала https://www.youtube.com/user/butylkus
 #Лицензия GPL v2
 #Автор: Алексей Butylkus, https://vk.com/butpub
 
