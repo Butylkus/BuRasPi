@@ -1,6 +1,6 @@
 #!/usr/bin/python3.4
 #coding=utf-8
-#Лицензия GPL v2
+#Лицензия GPL v3
 
 import RPi.GPIO as GPIO
 import time, os
